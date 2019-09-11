@@ -24,6 +24,6 @@ Smooth scrolling
 [smooth scrolling code](https://css-tricks.com/snippets/jquery/smooth-scrolling/)
 
 
-###Designed and Develop by
+### Designed and Develop by
 
 [Abubakar Oyerogba](https://abusavvy.github.io/)
