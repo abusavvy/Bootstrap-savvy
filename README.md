@@ -1,7 +1,7 @@
-#Bootstrap Savvy
+# Bootstrap Savvy
 A simple one page bootstrap 4 website template.
 
-###screenshot
+### screenshot
 ![alt text](screenshots.png "The website screenshots")
 
 
