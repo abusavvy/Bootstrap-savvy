@@ -5,14 +5,11 @@ A simple one page bootstrap 4 website template.
 ![alt text](screenshots.png "The website screenshots")
 
 
-### Credits
+### Credits:
+
 Css framework
 
 [Bootstrap 4](https://getbootstrap.com/)
-
-Code editor:
-
-[Sublime text](https://www.sublimetext.com/)
 
 Icons
 
@@ -24,6 +21,6 @@ Smooth scrolling
 [smooth scrolling code](https://css-tricks.com/snippets/jquery/smooth-scrolling/)
 
 
-### Designed and Develop by
+### Designed and Developed by
 
 [Abubakar Oyerogba](https://abusavvy.github.io/)
